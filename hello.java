@@ -1,1 +1,3 @@
-class hello{}
+class hello{
+Dummy
+}
